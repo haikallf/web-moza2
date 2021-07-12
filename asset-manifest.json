@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/web-moza2/static/css/main.6e24d7c8.chunk.css",
-    "main.js": "/web-moza2/static/js/main.dbc71735.chunk.js",
-    "main.js.map": "/web-moza2/static/js/main.dbc71735.chunk.js.map",
+    "main.css": "/web-moza2/static/css/main.e3ac7af1.chunk.css",
+    "main.js": "/web-moza2/static/js/main.98de1e02.chunk.js",
+    "main.js.map": "/web-moza2/static/js/main.98de1e02.chunk.js.map",
     "runtime-main.js": "/web-moza2/static/js/runtime-main.0871fde0.js",
     "runtime-main.js.map": "/web-moza2/static/js/runtime-main.0871fde0.js.map",
     "static/js/2.4d978a18.chunk.js": "/web-moza2/static/js/2.4d978a18.chunk.js",
     "static/js/2.4d978a18.chunk.js.map": "/web-moza2/static/js/2.4d978a18.chunk.js.map",
     "index.html": "/web-moza2/index.html",
-    "static/css/main.6e24d7c8.chunk.css.map": "/web-moza2/static/css/main.6e24d7c8.chunk.css.map",
+    "static/css/main.e3ac7af1.chunk.css.map": "/web-moza2/static/css/main.e3ac7af1.chunk.css.map",
     "static/js/2.4d978a18.chunk.js.LICENSE.txt": "/web-moza2/static/js/2.4d978a18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0871fde0.js",
     "static/js/2.4d978a18.chunk.js",
-    "static/css/main.6e24d7c8.chunk.css",
-    "static/js/main.dbc71735.chunk.js"
+    "static/css/main.e3ac7af1.chunk.css",
+    "static/js/main.98de1e02.chunk.js"
   ]
 }
