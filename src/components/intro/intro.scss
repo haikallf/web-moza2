@@ -29,8 +29,9 @@
         width: 90%;
 
         @include mobile {
+          margin-top: 20px;
           height: 50%;
-          width: 50%;
+          width: 40%;
         }
       }
     }
